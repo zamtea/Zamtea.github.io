@@ -16,7 +16,7 @@
     </style>
 </head>
 <body>
-    <h1>Ka Website a tling tawh e! 🎉</h1>
-    <p>Champhai atanga ka website hmasa ber a ni e.</p>
+    <h1>Chibai vek u le! 🙏</h1>
+    <p>Ka website-ah ka lo lawm a che u.</p>
 </body>
 </html>
